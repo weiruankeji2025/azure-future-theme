@@ -1,2 +1,33 @@
-# azure-future-theme
-A high-end WordPress theme with Glassmorphism design. Designed by WeiSoft Tech.
+# 🌊 Azure Future Theme
+
+> 一个大气、高端、上档次的 WordPress 博客主题，采用渐变蓝与玻璃拟态设计语言。
+> **Produced by [威软科技制作]**
+
+![Theme Preview](screenshot.png)
+
+## ✨ 核心特性 (Features)
+
+- 🎨 **Azure Gradient**: 深度定制的“蔚蓝视界”渐变色系。
+- 🌑 **Dark Mode**: 完美适配的智能暗黑模式，支持一键切换。
+- 💧 **Glassmorphism**: 导航栏与卡片采用磨砂玻璃拟态设计。
+- 📱 **Responsive**: 完美适配手机、平板与桌面端。
+- 📊 **Visit Counter**: 内置极光呼吸灯特效的访问量统计胶囊。
+- ⚙️ **Customizer**: 支持后台自定义强调色与 Logo 文字。
+
+## 🚀 安装指南 (Installation)
+
+1. 点击本页面右上角的 **Code** 按钮，选择 **Download ZIP**。
+2. 解压下载的包，你会得到一个文件夹（确保文件夹名叫 `azure-future`）。
+3. 重新把这个文件夹压缩成 `.zip` (或者直接使用 GitHub 的 Release 包)。
+4. 进入 WordPress 后台 -> **外观** -> **主题** -> **上传主题**。
+5. 启用主题，开始体验！
+
+## 🛠️ 技术栈 (Tech Stack)
+
+- **PHP 7.4+**
+- **Tailwind CSS** (CDN Version for Protoyping)
+- **Alpine.js** (For Interactions)
+
+---
+
+© 2025 Azure Future Theme. Designed by **WeiSoft Tech**.
